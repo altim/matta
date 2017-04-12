@@ -1,6 +1,6 @@
 @import url(reset.css);
 body {
-  font-family: Arial,Helvetica,serif;
+  font-family: Arial, Helvetica, serif;
   background: #fff;
   color: #fff; }
 
@@ -36,6 +36,8 @@ body {
     height: 8vw;
     width: 4.96124vw;
     top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     text-indent: -999999px;
     display: block;
@@ -75,6 +77,8 @@ body {
   position: absolute;
   left: 50%;
   top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   box-sizing: border-box; }
   @media (max-width: 500px) {
@@ -101,7 +105,10 @@ body {
       text-align: right; }
       .form-wrapper .form-header p a {
         color: #fff;
-        text-decoration: none; }
+        text-decoration: none;
+        transition: all .4s; }
+        .form-wrapper .form-header p a:hover {
+          color: #000; }
   .form-wrapper input[type=text] {
     width: 100%;
     border: none;
@@ -135,10 +142,6 @@ body {
     margin-bottom: 15px;
     box-sizing: border-box;
     cursor: pointer;
-    -webkit-transition: all .4s;
-    -moz-transition: all .4s;
-    -ms-transition: all .4s;
-    -o-transition: all .4s;
     transition: all .4s; }
     .form-wrapper button:hover {
       color: #000; }

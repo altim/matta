@@ -6,8 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/css/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.scss" afterPath="$PROJECT_DIR$/css/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/js/custom.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,12 +54,8 @@
                 <state relative-caret-position="-570">
                   <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                   <folding>
-                    <marker date="1492023706634" expanded="true" signature="989:1075" ph="{...}" />
-                    <marker date="1492023706634" expanded="true" signature="989:1397" ph="{...}" />
-                    <marker date="1492023706634" expanded="true" signature="1075:1161" ph="{...}" />
-                    <marker date="1492023706634" expanded="true" signature="1161:1248" ph="{...}" />
-                    <marker date="1492023706634" expanded="true" signature="1249:1335" ph="{...}" />
-                    <marker date="1492023706634" expanded="true" signature="1335:1397" ph="{...}" />
+                    <marker date="1492023928352" expanded="true" signature="117:729" ph="{...}" />
+                    <marker date="1492023928352" expanded="true" signature="629:729" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -74,8 +68,8 @@
           <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="532">
-                  <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+                <state relative-caret-position="456">
+                  <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -292,12 +286,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492015543520</updated>
-      <workItem from="1492015545136" duration="8141000" />
+      <workItem from="1492015545136" duration="8390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8141000" />
+    <option name="totallyTimeSpent" value="8390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="166" y="1200" width="1602" height="901" extended-state="6" />
@@ -390,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        <state relative-caret-position="456">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding />
         </state>
       </provider>
