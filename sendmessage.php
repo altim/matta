@@ -3,7 +3,7 @@
 	$email = $_REQUEST['email'];
 	$phone = $_REQUEST['phone'];
 	$messagebody = $_REQUEST['message'];
-	$to = "aleksandartimic@gmail.com";
+	$to = "info@mattashop.ch";
 	$subject = "Email from the matta form";
 
 	$message = "Email from matta form.\n";
