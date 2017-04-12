@@ -181,6 +181,7 @@ body {
     box-sizing: border-box;
     cursor: pointer;
     transition: all .4s;
+    outline:none;
 
     &:hover {
       color: #000;
