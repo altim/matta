@@ -1,14 +1,14 @@
 <?php
 	$name = $_REQUEST['name'];
 	$email = $_REQUEST['email'];
-	$phone = $_REQUEST['pehon'];
+	$phone = $_REQUEST['phone'];
 	$messagebody = $_REQUEST['message'];
 	$to = "aleksandartimic@gmail.com";
 	$subject = "Email from the matta form";
 
 	$message = "Email from matta form.\n";
 	$message .= "Sent by: ".$name." \n";
-	$message .= "Email: ".$email." \n\n";
+	$message .= "Email: ".$email." \n";
 	$message .= "Phone: ".$phone." \n\n";
 	$message .= $messagebody;
 

@@ -6,14 +6,14 @@ $(document).ready(function(){
     });
 
     $('.bxslider').bxSlider({
-        startSlide : 0,
+        startSlide : 1,
         pager : false,
         preloadImages : 'all',
         nextSelector : '.next-wrapper'
     });
 
     //Mail sending
-    $('#btn-submit').click(function(){
+    $('body').on('click','#btn-submit', function(){
         var name = $('#name').val(),
             email = $("#email").val(),
             phone = $("#phone").val(),
