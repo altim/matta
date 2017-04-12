@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d894dd5-6aa9-4e39-94ad-96f0ebc455f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/48196a7b1c08b072b4c9290322b9b739979809b2/style.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/48196a7b1c08b072b4c9290322b9b739979809b2/style.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/css/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.scss" afterPath="$PROJECT_DIR$/css/style.scss" />
-    </list>
+    <list default="true" id="5d894dd5-6aa9-4e39-94ad-96f0ebc455f4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +26,8 @@
           <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/custom.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="209">
-                  <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+                <state relative-caret-position="692">
+                  <caret line="61" column="5" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -94,9 +89,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sendmessage.php" />
-        <option value="$PROJECT_DIR$/js/custom.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
       </list>
     </option>
   </component>
@@ -286,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1492015543520</updated>
-      <workItem from="1492015545136" duration="8569000" />
+      <workItem from="1492015545136" duration="8769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8569000" />
+    <option name="totallyTimeSpent" value="8769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="166" y="1200" width="1602" height="901" extended-state="6" />
@@ -387,8 +382,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="692">
+          <caret line="61" column="5" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
           <folding />
         </state>
       </provider>
